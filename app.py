@@ -10,7 +10,7 @@ EUR_TO_IDR = 18617.72
 
 # UI
 import streamlit as st
-st.image("https://static.wixstatic.com/media/261cbb_c1eda2003b1e41e0bfca58af74a3fa06~mv2.jpg/v1/fill/w_1780,h_1335,al_c,q_90/261cbb_c1eda2003b1e41e0bfca58af74a3fa06~mv2.webp", use_column_width=True)
+st.image("https://drive.google.com/file/d/1L8df0VxJWKNK3GfxaeDPbNRnl-70I3Ge/view", use_column_width=True)
 st.title("🚗 Prediksi Harga Mobil Bekas Toyota 🚗")
 st.markdown("**Prediksi Harga Mobil Toyota Bekas Anda Dalam Hitungan Detik**")
 
